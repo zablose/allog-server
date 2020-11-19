@@ -1,0 +1,6 @@
+/.idea/
+/vendor/
+/.env
+/damp-post-setup.sh
+/composer.lock
+/docker-compose.yml

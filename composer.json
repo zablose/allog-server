@@ -1,0 +1,10 @@
+{
+    "require": {
+        "zablose/allog": "^2.0.0"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "optimize-autoloader": true
+    }
+}
